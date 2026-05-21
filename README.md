@@ -33,6 +33,7 @@ To replicate this system, a Microsoft List should be configured with the followi
 | `Resolution Notes` | Multiple lines of text | Final fix documentation |
 
 ![Microsoft List Ticketing Dashboard](MS LIST.png)
+
 ---
 
 ## 📦 Repository Contents
