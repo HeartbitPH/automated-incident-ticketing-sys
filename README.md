@@ -34,7 +34,7 @@ To replicate this system, a Microsoft List should be configured with the followi
 
 ### 📊 System Dashboard Preview
 
-![Cyber Support System Dashboard](MS LIST.png)
+![Cyber Support System Dashboard](./MS%20LIST.png)
 
 
 ---
