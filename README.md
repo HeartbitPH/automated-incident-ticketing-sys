@@ -36,7 +36,7 @@ To replicate this system, a Microsoft List should be configured with the followi
 
 ![Cyber Support System Dashboard](./ms%20list1.png)
 
-![Cyber Support Request Form](request-form.png)
+<img src="IT Ticketing Request form.png" alt="Cyber Support Request Form" width="100%">
 ---
 
 ## 📦 Repository Contents
