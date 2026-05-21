@@ -32,7 +32,8 @@ To replicate this system, a Microsoft List should be configured with the followi
 | `Assigned To` | Person or Group | The TA or staff member handling the ticket |
 | `Resolution Notes` | Multiple lines of text | Final fix documentation |
 
-![Microsoft List Ticketing Dashboard](MS LIST.png)
+### 📊 System Dashboard Preview
+![Cyber Support System Dashboard](MS%20list.png)
 
 ---
 
