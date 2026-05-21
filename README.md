@@ -33,6 +33,7 @@ To replicate this system, a Microsoft List should be configured with the followi
 | `Resolution Notes` | Multiple lines of text | Final fix documentation |
 
 ### 📊 System Dashboard Preview
+
 ![Cyber Support System Dashboard](MS LIST.png)
 
 
