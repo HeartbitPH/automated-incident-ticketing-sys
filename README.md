@@ -40,6 +40,9 @@ To replicate this system, a Microsoft List should be configured with the followi
 ![Cyber Support Request Form](Form.png)
 ---
 
+## Demo
+[▶ Watch the Demo](https://www.loom.com/share/95203f24093b43b7853a44f15e2b4a19)
+
 ## 📦 Repository Contents
 
 This repository contains the core logic definitions for the automation workflows:
