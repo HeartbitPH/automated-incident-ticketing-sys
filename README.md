@@ -2,7 +2,7 @@
 
 An efficient, cloud-native IT ticketing and incident management solution built entirely within the Microsoft 365 ecosystem. This system automates the lifecycle of a support ticket from submission to resolution, reducing manual overhead for technical assistants and administrators.
 
-## 🚀 Key Features
+## Key Features
 
 * **Lifecycle Automation:** Seamlessly tracks support requests from creation to closure.
 * **Automated Resolution Notifications:** Triggers tailored resolution communications directly to students once a ticket is marked resolved.
@@ -11,7 +11,7 @@ An efficient, cloud-native IT ticketing and incident management solution built e
 
 ---
 
-## 🛠️ System Architecture & Tech Stack
+## System Architecture & Tech Stack
 
 This solution utilizes a modular, two-flow system to optimize performance and separation of duties:
 
@@ -36,14 +36,14 @@ To replicate this system, a Microsoft List should be configured with the followi
 
 ![Cyber Support System Dashboard](./ms%20list1.png)
 
-### 📝 Cyber Support Intake Form
+### Cyber Support Intake Form
 ![Cyber Support Request Form](Form.png)
 ---
 
 ## Demo
 [▶ Watch the Demo](https://www.loom.com/share/95203f24093b43b7853a44f15e2b4a19)
 
-## 📦 Repository Contents
+## Repository Contents
 
 This repository contains the core logic definitions for the automation workflows:
 * `CyberSupportRequestLifecycle_2026052018482...` : Main intake and status orchestration workflow package.
